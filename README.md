@@ -1,2 +1,1 @@
-# plinko-score
-plinko score
+# KillTheMonster
